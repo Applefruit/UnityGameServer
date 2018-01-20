@@ -1,0 +1,10 @@
+C:\Users\Dennis\Desktop\GameServer\V2\MMO-Server\MMO-Server\bin\Debug\MMO-Server.exe.config
+C:\Users\Dennis\Desktop\GameServer\V2\MMO-Server\MMO-Server\bin\Debug\MMO-Server.exe
+C:\Users\Dennis\Desktop\GameServer\V2\MMO-Server\MMO-Server\bin\Debug\MMO-Server.pdb
+C:\Users\Dennis\Desktop\GameServer\V2\MMO-Server\MMO-Server\obj\Debug\MMO-Server.csprojResolveAssemblyReference.cache
+C:\Users\Dennis\Desktop\GameServer\V2\MMO-Server\MMO-Server\obj\Debug\MMO_Server.UnityGameServer.resources
+C:\Users\Dennis\Desktop\GameServer\V2\MMO-Server\MMO-Server\obj\Debug\MMO_Server.Properties.Resources.resources
+C:\Users\Dennis\Desktop\GameServer\V2\MMO-Server\MMO-Server\obj\Debug\MMO-Server.csproj.GenerateResource.Cache
+C:\Users\Dennis\Desktop\GameServer\V2\MMO-Server\MMO-Server\obj\Debug\MMO-Server.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\Desktop\GameServer\V2\MMO-Server\MMO-Server\obj\Debug\MMO-Server.exe
+C:\Users\Dennis\Desktop\GameServer\V2\MMO-Server\MMO-Server\obj\Debug\MMO-Server.pdb
